@@ -39,7 +39,7 @@
             this.lblTime.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTime.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblTime.Location = new System.Drawing.Point(181, 9);
+            this.lblTime.Location = new System.Drawing.Point(36, 23);
             this.lblTime.Name = "lblTime";
             this.lblTime.Size = new System.Drawing.Size(221, 58);
             this.lblTime.TabIndex = 0;
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(500, 106);
+            this.ClientSize = new System.Drawing.Size(299, 106);
             this.Controls.Add(this.lblTime);
             this.Name = "Form1";
             this.Text = "Form1";
